@@ -83,23 +83,35 @@ Based on AQI, the following health advisories are provided:
 ## 🧪 Example: User Input Prediction
 
 Enter pollutant details to predict AQI:
+
 Pollutant Minimum: 85
+
 Pollutant Maximum: 160
+
 Pollutant Average: 98
+
 Pollutant ID (PM2.5, PM10, OZONE, SO2, NO2, CO): NO2
 
 ## output
+
 Predicted AQI Category: Good
+
 Predicted AQI Value: 49.68
+
 Health Risk: Good: Air quality is satisfactory.
 
 📚 Project Structure
+
 aqi-prediction-decision-tree/
+
 ├── datasheet.csv                   # Dataset (not shared publicly)
+
 ├── aqi_prediction_notebook.ipynb  # Main Colab notebook
+
 ├── README.md                      # Project documentation
 
 🔮 Future Enhancements
+
 Add support for more ML models (e.g., Random Forest, XGBoost)
 
 Deploy via Flask or Streamlit as a web app
