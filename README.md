@@ -43,7 +43,7 @@ A machine learning-based project that predicts the **Air Quality Index (AQI)** v
 1. **Open in Google Colab**  
 
 2. **Upload your dataset**
-   - Ensure the CSV file is uploaded to `/content/datasheet.csv`
+   - Ensure the CSV file is uploaded to `/content/dataset.csv`
    - you can download from here also : https://www.data.gov.in/resource/real-time-air-quality-index-various-locations
 
 3. **Run the notebook**
