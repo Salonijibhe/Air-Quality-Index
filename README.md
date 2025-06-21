@@ -104,9 +104,9 @@ Health Risk: Good: Air quality is satisfactory.
 
 aqi-prediction-decision-tree/
 
-├── datasheet.csv                   # Dataset (not shared publicly)
+├── dataset.csv                   # Dataset 
 
-├── aqi_prediction_notebook.ipynb  # Main Colab notebook
+├── decision.ipynb  # Main Colab notebook
 
 ├── README.md                      # Project documentation
 
