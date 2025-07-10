@@ -1,10 +1,10 @@
-# 🌫️ Air Quality Index (AQI) Prediction using Decision Trees
+# Air Quality Index (AQI) Prediction using Decision Trees
 
 A machine learning-based project that predicts the **Air Quality Index (AQI)** value and its **associated health category** using real-world pollutant data. The project includes a Decision Tree Classifier for categorizing AQI and a Decision Tree Regressor for precise AQI value prediction, with visual explanations and overfitting checks.
 
 ---
 
-## ✅ Key Features
+## Key Features
 
 - **Decision Tree Classifier** to predict AQI category (e.g., Good, Moderate, Unhealthy, etc.)
 - **Decision Tree Regressor** to predict numerical AQI value
@@ -17,7 +17,7 @@ A machine learning-based project that predicts the **Air Quality Index (AQI)** v
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - Dataset contains:
   - Pollutant measurements (`min`, `max`, `avg`)
@@ -27,7 +27,7 @@ A machine learning-based project that predicts the **Air Quality Index (AQI)** v
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **Google Colab / Jupyter Notebook**
@@ -38,7 +38,7 @@ A machine learning-based project that predicts the **Air Quality Index (AQI)** v
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Open in Google Colab**  
 
@@ -51,13 +51,13 @@ A machine learning-based project that predicts the **Air Quality Index (AQI)** v
 
 ---
 
-## 🧠 Model Performance
+## Model Performance
 
-### ✅ Classifier (Decision Tree)
+### Classifier (Decision Tree)
 - **Accuracy:** 100%
 - **Precision/Recall/F1-score:** 1.0 across all AQI categories
 
-### ✅ Regressor (Decision Tree)
+### Regressor (Decision Tree)
 - **R² Score:** 0.998 (Testing)
 - **Mean Squared Error:** 6.29 (Testing)
 
@@ -80,7 +80,7 @@ Based on AQI, the following health advisories are provided:
 
 ---
 
-## 🧪 Example: User Input Prediction
+## Example: User Input Prediction
 
 Enter pollutant details to predict AQI:
 
@@ -100,7 +100,7 @@ Predicted AQI Value: 49.68
 
 Health Risk: Good: Air quality is satisfactory.
 
-📚 Project Structure
+Project Structure
 
 aqi-prediction-decision-tree/
 
@@ -110,7 +110,7 @@ aqi-prediction-decision-tree/
 
 ├── README.md                      # Project documentation
 
-🔮 Future Enhancements
+Future Enhancements
 
 Add support for more ML models (e.g., Random Forest, XGBoost)
 
